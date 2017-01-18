@@ -27,5 +27,6 @@ dependencies {
     })
     compile 'com.android.support:appcompat-v7:25.1.0'
     testCompile 'junit:junit:4.12'
-    compile project(':log2file')
+//    compile project(':log2file')
+//    compile 'com.github.changjiashuai:log2file:v1.0.0'
 }
